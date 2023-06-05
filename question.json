@@ -1,5 +1,4 @@
-{
-  "categories": [
+[
     {
       "category": "Cultura",
       "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
@@ -42,5 +41,5 @@
       "answer": 1,
       "explanation": "Recuerda tomar 1-2 litros de agua al día CRACK."
     }
-  ]
-}
+]
+
