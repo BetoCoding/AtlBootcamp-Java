@@ -1,45 +1,44 @@
-[
-  {
-    "category": "Cultura",
-    "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-    "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-    "answer": 0,
-    "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
-  },
-  {
-    "category": "Deportes",
-    "question": "¿De qué nacionalidad es el futbolista Lionel Messi?",
-    "options": ["Española", "Argentina", "Uruguaya"],
-    "answer": 1,
-    "explanation": "Messi 'The GOAT' es argentino, desde pequeño se desarrollo como futbolista en el FC Barcelona."
-  },
-  {
-    "category": "Arte",
-    "question": "¿Donde se encuentra el famoso 'Palacio de Bellas Artes?",
-    "options": ["Chile", "España", "México"],
-    "answer": 2,
-    "explanation": "Se encuentra en México, espacio donde se llevan a cabo múltiples eventos artísticos."
-  },
-  {
-    "category": "Cine",
-    "question": "¿En qué película Neo derrota al Agente Smith?",
-    "options": ["Matrix", "Matrix 2", "Matrix 3"],
-    "answer": 2,
-    "explanation": "La épica batalla acontece en el fina de la película Matrix 3."
-  },
-  {
-    "category": "Historia",
-    "question": "¿Con qué sobrenombre se le conocía al emperador Alejandro Magno?",
-    "options": ["El Grande", "El Dictador", "El Conquistador"],
-    "answer": 0,
-    "explanation": "Rey Macedonio que conquisto el mundo griego."
-  },
-  {
-    "category": "Ciencia",
-    "question": "¿De qué elemento se compone la fórmula H2O?",
-    "options": ["Aceite", "Agua", "Cerveza"],
-    "answer": 1,
-    "explanation": "Recuerda tomar 1-2 litros de agua al día CRACK."
-  }
-]
+{
+  "category": "Cultura",
+  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
+  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
+  "answer": 0,
+  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+},
+{
+  "category": "Deportes",
+  "question": "¿De qué nacionalidad es el futbolista Lionel Messi?",
+  "options": ["Española", "Argentina", "Uruguaya"],
+  "answer": 1,
+  "explanation": "Messi 'The GOAT' es argentino, desde pequeño se desarrollo como futbolista en el FC Barcelona."
+},
+{
+  "category": "Arte",
+  "question": "¿Donde se encuentra el famoso 'Palacio de Bellas Artes?",
+  "options": ["Chile", "España", "México"],
+  "answer": 2,
+  "explanation": "Se encuentra en México, espacio donde se llevan a cabo múltiples eventos artísticos."
+},
+{
+  "category": "Cine",
+  "question": "¿En qué película Neo derrota al Agente Smith?",
+  "options": ["Matrix", "Matrix 2", "Matrix 3"],
+  "answer": 2,
+  "explanation": "La épica batalla acontece en el fina de la película Matrix 3."
+},
+{
+  "category": "Historia",
+  "question": "¿Con qué sobrenombre se le conocía al emperador Alejandro Magno?",
+  "options": ["El Grande", "El Dictador", "El Conquistador"],
+  "answer": 0,
+  "explanation": "Rey Macedonio que conquisto el mundo griego."
+},
+{
+  "category": "Ciencia",
+  "question": "¿De qué elemento se compone la fórmula H2O?",
+  "options": ["Aceite", "Agua", "Cerveza"],
+  "answer": 1,
+  "explanation": "Recuerda tomar 1-2 litros de agua al día CRACK."
+}
+
 
